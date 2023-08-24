@@ -19,7 +19,17 @@
             "text": "You are the spiderman of this world"
         }
     ],
-    "contact":[],
+    "contact":[
+        {
+          "name": "Huzaifa Hanif",
+          "email": "hanifhuzaifa307@gmail.com",
+          "phonenumber": 3118039984,
+          "subject": "",
+          "message": "",
+          "id": 1
+        }
+      ],
     "quote":[],
-    "text": []
+    "text": [],
+    "text1": []
 }
