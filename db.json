@@ -1,35 +1,26 @@
 {
-    "feedback": [
-        {
-            "id": 1,
-            "rating": 10,
-            "user_name": "Tony Stark",
-            "text": "You are the ironman of this world"
-        },
-        {
-            "id": 2,
-            "rating": 9,
-            "user_name": "Bruce Wayne",
-            "text": "You are the batman of this world"
-        },
-        {
-            "id": 3,
-            "rating": 8,
-            "user_name": "Peter Parker",
-            "text": "You are the spiderman of this world"
-        }
-    ],
-    "contact":[
-        {
-          "name": "Huzaifa Hanif",
-          "email": "hanifhuzaifa307@gmail.com",
-          "phonenumber": 3118039984,
-          "subject": "",
-          "message": "",
-          "id": 1
-        }
-      ],
-    "quote":[],
-    "text": [],
-    "text1": []
+  "feedback": [
+    {
+      "id": 1,
+      "rating": 10,
+      "user_name": "Tony Stark",
+      "text": "You are the ironman of this world"
+    },
+    {
+      "id": 2,
+      "rating": 9,
+      "user_name": "Bruce Wayne",
+      "text": "You are the batman of this world"
+    },
+    {
+      "id": 3,
+      "rating": 8,
+      "user_name": "Peter Parker",
+      "text": "You are the spiderman of this world"
+    }
+  ],
+  "contact": [],
+  "quote": [],
+  "text": [],
+  "text1": []
 }
